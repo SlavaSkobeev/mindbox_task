@@ -1,2 +1,2 @@
-# mindbox_cs
-Код на c#
+# mindbox_task
+Задачи для minbox
